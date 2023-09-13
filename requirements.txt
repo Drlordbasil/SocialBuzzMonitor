@@ -1,0 +1,7 @@
+The package requirements for this Python program are:
+- tweepy
+- re
+- datetime
+- textblob
+- matplotlib.pyplot
+- time
